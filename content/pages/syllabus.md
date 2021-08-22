@@ -24,10 +24,12 @@ Fall 2021
 
 
 
-###  **Last date to Drop and receive 100% refund:** September 2<sup>nd</sup>, 2021
+###  **Last date to Drop and receive 100% refund:** 
+September 2<sup>nd</sup>, 2021
 
 
-### **Last date to Withdraw and earn a grade of 'W':** November 5<sup>th</sup>, 2021
+### **Last date to Withdraw and earn a grade of 'W':** 
+November 5<sup>th</sup>, 2021
 
 
 ## **Course Meeting Time and Location:**
