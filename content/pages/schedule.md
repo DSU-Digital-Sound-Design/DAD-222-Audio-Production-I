@@ -34,7 +34,24 @@ th {
    </td>
    <td>8/24, 8/26
    </td>
-   <td>Sound and hearing – how is sound created and how do we perceive it? 
+   <td>
+
+   **Tuesday 8/24:**
+
+   * Me - [Dr. Carson](https://tatecarson.com)
+   * Class introductions 
+      * Name? Class year? Where are you from? What's your favorite game or movie?   
+   * [Syllabus](pages/syllabus.md)
+   * [Perusall](https://perusall.com/) signup
+        * I will assign readings, videos, or podcasts through Perusall. You will highlight interesting or confusing parts of the material and ask questions. These assignments will be part of your participation grade.  
+        * Course code - **CARSON-8FNR9**
+        * Do the syllabus highlighting by next class.   
+   * [Resources](pages/resources.md)
+   * [Intro to music technology](pages/lectures/week-1/intro-to-music-tech-slides)   
+
+   **Thursday 8/26:**
+
+   Sound and hearing – how is sound created and how do we perceive it? 
    </td>
   </tr>
   <tr>
