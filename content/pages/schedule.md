@@ -64,6 +64,7 @@ th {
 
 <li>Audio hardware – microphones and preamps, mixers, audio interfaces etc.
 
+* [Microphones Presentation](https://dakotastateuniversity-my.sharepoint.com/:p:/r/personal/tate_carson_dsu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B07B9B609-B1A1-4C95-AD7E-D4753D02806E%7D&file=Charm_Studio_Microphones_03-17-2020.pptx&action=edit&mobileredirect=true)
 <li>Digital audio 
 </li>
 </ul>
