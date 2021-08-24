@@ -128,7 +128,7 @@ Students engage in one semester long project that allows them to explore the exp
 
 ### **Attendance and Make-up Policy:**
 
-Students are expected to attend all scheduled classes. After **three **absences, 10 points will be deducted from the attendance grade for each additional absence. 
+Students are expected to attend all scheduled classes. After **three** absences, 10 points will be deducted from the attendance grade for each additional absence. 
 
 Late work will only be accepted with a documented excuse. Students may redo work they received an undesirable grade on once, but only if they turned in something by the original due date. The deadline for redoing work is a week after the original due date. After this time, no late work will be accepted.  
 
