@@ -51,7 +51,7 @@ th {
 
    **Thursday 8/26:**
 
-   Sound and hearing – how is sound created and how do we perceive it? 
+   Sound and hearing – how is sound created and how do we perceive it? - [slides](pages/lectures/week-1/sound-and-hearing)
    </td>
   </tr>
   <tr>
