@@ -169,6 +169,8 @@ The Fletcher-Munson equal-loudness contour curves (Figure 2.26) indicate the ear
 
 ## Beats 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/srNqPEJJCLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {{% note %}}
 Two tones that differ only slightly in frequency and have approximately the same amplitude will produce an effect known as beats. What you'll hear is changes in amplitude. This is how many people tune instruments. 
 
@@ -178,6 +180,8 @@ Lets do the DIY for beats on pg 68.
 ---
 
 ## Combination Tones 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiW8gzBGz1A?start=583" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
 Combination tones result when two loud tones differ by more than 50 Hz. In this case, the ear perceives an additional set of tones that are equal to both the sum and the difference between the two original tones as well as being equal to the sum and difference between their harmonics. 
