@@ -139,40 +139,57 @@ Loudness is variations in sound pressure level or SPL and is measured on a logar
 
 # The Ear
 
-Threshold of Hearing
+![](ear.png)
+
+{{% note %}}
+Sound is collected by the pinna. Then it travels through the eardrum, which vibrates converting sound-pressure waves into mechanical vibrations. The sound then goes to the cochlea, this snail looking organ covered in tiny hair receptors. It is here that we perceive frequencies of a sound. 
+{{%/ note %}}
 
 ---
 
-Threshold of Feeling
+# Psychoacoustics
+
+{{% note %}}
+This is not the end of the story. We now have to talk about psychoacoustics. The area of psychoacoustics deals with how and why the brain interprets a particular sound stimulus in a certain way. Although a great deal of study has been devoted to this subject, the primary device in psychoacoustics is the all- elusive brain, which is still largely unknown to present-day science.
+{{%/ note %}}
 
 ---
 
-Threshold of Pain
+## Auditory Perception
+
+![](fm-curve.png)
+
+{{% note %}}
+What sound comes into your ears is not always what you "hear", your brain completes the picture. Our ears perception of timbre and frequency changes with the loudness of a perceived signal
+
+The Fletcher-Munson equal-loudness contour curves (Figure 2.26) indicate the ear’s average sensitivity to different frequencies at various levels. These indicate the sound-pressure levels that are required for our ears to hear frequencies along the curve as being equal in level to a 1000-Hz reference level (measured in phons).
+{{%/ note %}}
 
 ---
 
-Taking Care of Your Hearing 
+## Beats 
+
+{{% note %}}
+Two tones that differ only slightly in frequency and have approximately the same amplitude will produce an effect known as beats. What you'll hear is changes in amplitude. This is how many people tune instruments. 
+
+Lets do the DIY for beats on pg 68. 
+{{%/ note %}}
 
 ---
 
-Psychoacoustics
+## Combination Tones 
+
+{{% note %}}
+Combination tones result when two loud tones differ by more than 50 Hz. In this case, the ear perceives an additional set of tones that are equal to both the sum and the difference between the two original tones as well as being equal to the sum and difference between their harmonics. 
+{{%/ note %}}
 
 ---
 
-Auditory Perception
+## Masking 
 
----
+{{% note %}}
+Masking is the phenomenon by which loud signals prevent the ear from hearing softer sounds. The greatest masking effect occurs when the frequency of the sound and the frequency of the masking noise are close to each other. For example, a 4 kHz tone will mask a softer 3.5 kHz tone but has little effect on the audibility of a quiet 1000 Hz tone. 
 
-Beats 
+Lets try the diy on pg 69.
+{{%/ note %}}
 
----
-
-Combination Tones 
-
----
-
-Masking 
-
----
-
-Perception of Direction
