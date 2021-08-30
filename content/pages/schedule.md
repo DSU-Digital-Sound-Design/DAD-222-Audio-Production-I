@@ -59,14 +59,32 @@ th {
    </td>
    <td>8/31, 9/2
    </td>
-   <td>Introduction to audio – how is sound captured and represented in digital form?
+   <td>
+
+   Introduction to audio – how is sound captured and represented in digital form?
+   
+
+   **Tuesday 8/31**
+   
+
+   * Audio hardware – microphones and preamps, mixers, audio interfaces etc. - [slides](pages/lectures/week-2-introduction-to-audio/audio-hardware)
+
+   * [Microphones Presentation](https://dakotastateuniversity-my.sharepoint.com/:p:/r/personal/tate_carson_dsu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B07B9B609-B1A1-4C95-AD7E-D4753D02806E%7D&file=Charm_Studio_Microphones_03-17-2020.pptx&action=edit&mobileredirect=true)
+
+   * Studio visit - can we identify the elements that we talked about in class? 
+   * [Studio documentation](https://sites.google.com/view/charmstudios/studio-documentation) 
+
+
+
+   **Thursday 9/2**
+
+   Digital audio 
+
+  
+
 <ul>
 
-<li>Audio hardware – microphones and preamps, mixers, audio interfaces etc.
 
-* [Microphones Presentation](https://dakotastateuniversity-my.sharepoint.com/:p:/r/personal/tate_carson_dsu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B07B9B609-B1A1-4C95-AD7E-D4753D02806E%7D&file=Charm_Studio_Microphones_03-17-2020.pptx&action=edit&mobileredirect=true)
-<li>Digital audio 
-</li>
 </ul>
    </td>
   </tr>
