@@ -67,9 +67,9 @@ th {
    **Tuesday 8/31**
    
 
-   * Audio hardware – microphones and preamps, mixers, audio interfaces etc. - [slides](pages/lectures/week-2-introduction-to-audio/audio-hardware)
+   * Audio hardware – microphones and preamps, mixers, audio interfaces etc. - [slides](pages/lectures/week-2-introduction-to-audio/audio-hardware) - [PDF](pages/lectures/week-2-introduction-to-audio/audio-hardware/audio-hardware.pdf)
 
-   * [Microphones Presentation](https://dakotastateuniversity-my.sharepoint.com/:p:/r/personal/tate_carson_dsu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B07B9B609-B1A1-4C95-AD7E-D4753D02806E%7D&file=Charm_Studio_Microphones_03-17-2020.pptx&action=edit&mobileredirect=true)
+   * [Microphones Presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
 
    * Studio visit - can we identify the elements that we talked about in class? 
    * [Studio documentation](https://sites.google.com/view/charmstudios/studio-documentation) 
