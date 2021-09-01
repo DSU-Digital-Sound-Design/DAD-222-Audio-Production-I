@@ -71,14 +71,17 @@ th {
 
    * [Microphones Presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
 
-   * Studio visit - can we identify the elements that we talked about in class? 
    * [Studio documentation](https://sites.google.com/view/charmstudios/studio-documentation) 
 
 
 
    **Thursday 9/2**
 
-   Digital audio 
+   * Finish slides at digital audio interfaces 
+   * [Digital audio](pages/lectures/week-2-introduction-to-audio/digital-audio-data/)
+   * Studio visit - can we identify the elements that we talked about in class? 
+      * Make a simple recording 
+
 
   
 
