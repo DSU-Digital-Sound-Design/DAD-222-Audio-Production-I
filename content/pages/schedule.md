@@ -78,7 +78,7 @@ th {
    **Thursday 9/2**
 
    * Finish slides at digital audio interfaces 
-   * [Digital audio](pages/lectures/week-2-introduction-to-audio/digital-audio-data/)
+   * [Digital audio](pages/lectures/week-2-introduction-to-audio/digital-audio-data/) - [PDF](pages/lectures/week-2-introduction-to-audio/digital-audio-data/digital-audio-data.pdf)
    * Studio visit - can we identify the elements that we talked about in class? 
       * Make a simple recording 
 
