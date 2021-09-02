@@ -3,7 +3,7 @@ title = "Digital Audio Data"
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "solarized"
-show_notes = "separate-page"
+# show_notes = "separate-page"
 +++
 
 ## Digital Audio Data 
