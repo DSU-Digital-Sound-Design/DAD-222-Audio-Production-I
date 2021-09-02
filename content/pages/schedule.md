@@ -82,7 +82,7 @@ th {
    * Studio visit - can we identify the elements that we talked about in class? 
       * Make a simple recording 
 
-
+   HOMEWORK: Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
   
 
 <ul>
