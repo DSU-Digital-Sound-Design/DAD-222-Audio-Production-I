@@ -3,7 +3,7 @@ title = "Audio Hardware"
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "solarized"
-show_notes = "separate-page"
+# show_notes = "separate-page"
 +++
 
 # Audio Hardware
