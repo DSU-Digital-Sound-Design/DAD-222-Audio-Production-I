@@ -1,4 +1,4 @@
----
+   ---
 title: Schedule
 ---
 
@@ -96,21 +96,46 @@ th {
    </td>
    <td>9/7, 9/9
    </td>
-   <td>The Digital Audio Workstation – recording and editing
-<ul>
+   <td>
+   
+   The Digital Audio Workstation – recording and editing
 
-<li>Common DAW functionality – play, stop, record, the timeline
+   **Tuesday 9/7**
 
-<li>Recording concepts
+   * Listen to some of your favorite songs. 
+   * [Common DAW functionality](pages/lectures/week-3/DAW) – play, stop, record, the  timeline
+   * Comparing these different elements between DAWs
+      * Ableton Live
+      * Logic Pro
+      * Reaper
+      * Soundtrap 
 
-<p>
-Project 1: Starting the sample pack. 
-<p>
-Work in groups of two. One person “performs” while the other tracks. Pick one thing to record, an instrument or an object. Get at least 10 recordings of distinct sounds. 
-<p>
-Remove unwanted material from the beginning and ending of the recording. Cut sounds into separate files and name them appropriately. Apply fades to the start and end to avoid clicks. Raise the levels of the recordings so they are all similar.
-<p>
-Make sure 5 of the recordings can be edited later as a loop. Explore all the different sounds that the object can make. Use at least two different microphones and compare the results. 
+
+  **In class lab:**
+
+   Take screenshots and label the important parts of your chosen DAW. 
+
+   Include the following elements: 
+   * Transport 
+   * Transport time with real time, SMPTE, and musical time 
+   * edit view - just edit view 
+   * mix view - with edit view together 
+      *  label these elements: volume fade, mute, solo, record enable, pan knob, input slot, output slot 
+
+   If you know your group you can go up to the studio and start your recording project. 
+
+   If you're done with the class, lab and you aren't recording, spend the rest of class exploring Ableton Live and see what you can make with it. 
+
+
+   [Project 1 - Starting the sample pack](pages/projects) - Due: Tuesday 9/14
+
+   **Thursday 9/9**
+
+   * Listen to the favorite songs we didn't get to on Tuesday
+   * Recording concepts and using the studio 
+
+
+
 </li>
 </ul>
    </td>
@@ -123,9 +148,8 @@ Make sure 5 of the recordings can be edited later as a loop. Explore all the dif
    <td>DAW continued – editing and mixing
 <ul>
 
-<li>Editing concepts – non-destructive editing, fades, crossfades, time and pitch shift 
-
-<li>Mixing concepts – volume, pan, automation, dynamics, eq 
+* Editing concepts – non-destructive editing, fades, crossfades, time and pitch shift 
+* Mixing concepts – volume, pan, automation, dynamics, eq 
 
 <p>
 Project 2: Create a sound scene 
