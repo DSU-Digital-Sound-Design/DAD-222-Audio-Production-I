@@ -61,7 +61,7 @@ th {
    </td>
    <td>
 
-   Introduction to audio – how is sound captured and represented in digital form?
+   ## Introduction to audio – how is sound captured and represented in digital form?
    
 
    **Tuesday 8/31**
@@ -98,12 +98,12 @@ th {
    </td>
    <td>
    
-   The Digital Audio Workstation – recording and editing
+   ## The Digital Audio Workstation – recording and editing
 
    **Tuesday 9/7**
 
    * Listen to some of your favorite songs. 
-   * [Common DAW functionality](pages/lectures/week-3/DAW) – play, stop, record, the  timeline
+   * [Common DAW functionality](pages/lectures/week-3/DAW) - [PDF](pages/lectures/week-3/DAW/daw.pdf) – play, stop, record, the  timeline
    * Comparing these different elements between DAWs
       * Ableton Live
       * Logic Pro
