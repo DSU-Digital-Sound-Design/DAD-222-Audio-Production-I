@@ -103,6 +103,14 @@ th {
    **Tuesday 9/7**
 
    * Listen to some of your favorite songs. 
+
+
+
+   [Project 1 - Starting the sample pack](pages/projects) - Due: Tuesday 9/14
+
+   **Thursday 9/9**
+
+   * Listen to the favorite songs we didn't get to on Tuesday
    * [Common DAW functionality](pages/lectures/week-3/DAW) - [PDF](pages/lectures/week-3/DAW/daw.pdf) – play, stop, record, the  timeline
    * Comparing these different elements between DAWs
       * Ableton Live
@@ -110,10 +118,9 @@ th {
       * Reaper
       * Soundtrap 
 
-
   **In class lab:**
 
-   Take screenshots and label the important parts of your chosen DAW. 
+   Take screenshots and label the important parts of your chosen DAW. Due by the end of today. 
 
    Include the following elements: 
    * Transport 
@@ -125,17 +132,6 @@ th {
    If you know your group you can go up to the studio and start your recording project. 
 
    If you're done with the class, lab and you aren't recording, spend the rest of class exploring Ableton Live and see what you can make with it. 
-
-
-   [Project 1 - Starting the sample pack](pages/projects) - Due: Tuesday 9/14
-
-   **Thursday 9/9**
-
-   * Listen to the favorite songs we didn't get to on Tuesday
-   * Recording concepts and using the studio 
-
-
-
 </li>
 </ul>
    </td>
