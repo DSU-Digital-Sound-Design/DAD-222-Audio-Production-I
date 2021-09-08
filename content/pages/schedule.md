@@ -129,7 +129,7 @@ th {
    * mix view - with edit view together 
       *  label these elements: volume fade, mute, solo, record enable, pan knob, input slot, output slot 
 
-   If you know your group you can go up to the studio and start your recording project. 
+   If you know your group you can go up to the studio and start your recording project. Make sure to save your files to your OneDrive or external hard drive. 
 
    If you're done with the class, lab and you aren't recording, spend the rest of class exploring Ableton Live and see what you can make with it. 
 </li>
@@ -141,20 +141,26 @@ th {
    </td>
    <td>9/14, 9/16
    </td>
-   <td>DAW continued – editing and mixing
-<ul>
+   <td>
+   
+   Stereo recording / Editing, Mixing
 
-* Editing concepts – non-destructive editing, fades, crossfades, time and pitch shift 
-* Mixing concepts – volume, pan, automation, dynamics, eq 
+   **Tuesday 9/14**
 
-<p>
-Project 2: Create a sound scene 
-<p>
-Take the edited recordings and create a short (00:30 – 1:00) etude using the mixing concepts we have learned. An etude is not meant to be a piece of music, so don’t worry about artistic merit. 
-<p>
-<strong>Other possible assignments: </strong>volume and pan, compressor, equalization, time-based effects
-</li>
-</ul>
+   * Stereo recording techniques in the studio. 
+   * Editing concepts – non-destructive editing, fades, crossfades, time and pitch shift 
+  
+   **Thursday 9/16**
+
+   * Mixing concepts – volume, pan, automation, dynamics, eq 
+
+
+   Project 2: Create a sound scene 
+
+   Take the edited recordings and create a short (00:30 – 1:00) etude using the mixing concepts we have learned. An etude is not meant to be a piece of music, so don’t worry about artistic merit. 
+
+   <strong>Other possible assignments: </strong>volume and pan, compressor, equalization, time-based effects
+
    </td>
   </tr>
   <tr>
