@@ -149,6 +149,10 @@ th {
 
    * Stereo recording techniques in the studio. 
    * Editing concepts – non-destructive editing, fades, crossfades, time and pitch shift 
+
+   In class assignment: 
+
+   Take your recordings from the studio and edit them in your DAW. Remove unwanted material from the beginning and ending of the recording. Cut sounds into separate files and name them appropriately. Apply fades to the start and end to avoid clicks. Raise the levels of the recordings so they are all similar.
   
    **Thursday 9/16**
 

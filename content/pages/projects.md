@@ -5,11 +5,11 @@ title: Projects
 ## Project 1 - Starting the sample pack. 
 
 
-Work in groups of 2-4 in the recording studio. One person “performs” while the other tracks, and anyone left ofter watches how to track. Pick one thing to record, an instrument or an object. 
+Work in groups of 2-4 in the recording studio. One person “performs” while the other tracks, and anyone left over watches how to track. Pick one thing to record, an instrument or an object. 
 
-Get at least 10 recordings of distinct sounds. If you're recording an instrument, don't just record 10 different tones. Try to get a variety of timbres. Try extended techniques. Experiment with placing the microphone different distances from the audio source. Also experiment with recording very quiet sounds, or very loud sounds. 
+Make at least 10 recordings. These will be used to build your own personal sample pack. Decide if you want these to be "musical" or "sound effects" recordings. If you decide to record something more musical, be sure to note the tempo and key of whatever you record, so that you can compose something more easily in the editing process. 
 
-Remove unwanted material from the beginning and ending of the recording. Cut sounds into separate files and name them appropriately. Apply fades to the start and end to avoid clicks. Raise the levels of the recordings so they are all similar.
+If you're going the sound effects route and recording an instrument, don't just record 10 different tones. Try to get a variety of timbres. Try extended techniques. Experiment with placing the microphone different distances from the audio source. Also experiment with recording very quiet sounds, or very loud sounds. 
 
 Make sure 5 of the recordings can be edited later as a loop. Explore all the different sounds that the object can make. Use at least two different microphones and compare the results.
 
