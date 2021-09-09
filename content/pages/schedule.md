@@ -110,13 +110,14 @@ th {
 
    **Thursday 9/9**
 
-   * Listen to the favorite songs we didn't get to on Tuesday
+   * Look at the [studio webpage](https://sites.google.com/view/charmstudios/home) and booking system
    * [Common DAW functionality](pages/lectures/week-3/DAW) - [PDF](pages/lectures/week-3/DAW/daw.pdf) – play, stop, record, the  timeline
    * Comparing these different elements between DAWs
       * Ableton Live
       * Logic Pro
       * Reaper
       * Soundtrap 
+   * Listen to the favorite songs we didn't get to on Tuesday
 
   **In class lab:**
 
