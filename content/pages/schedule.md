@@ -144,16 +144,25 @@ th {
    </td>
    <td>
    
-   Stereo recording / Editing, Mixing
+   Editing, Mixing
 
    **Tuesday 9/14**
 
-   * Stereo recording techniques in the studio. 
-   * Editing concepts – non-destructive editing, fades, crossfades, time and pitch shift 
+   * Editing concepts - non-destructive editing
+      * Loop - command / control + L 
+      * cut, copy, paste, trim
+      * cut time, paste time, duplicate time, delete time
+      * split - command / control + E
+      * consolidate - command / control + J 
+      * fades,  
+      * crossfades, 
+      * time - warping in Ableton Live
+         * use warp markers and warp modes 
+      * pitch shift 
 
-   In class assignment: 
-
-   Take your recordings from the studio and edit them in your DAW. Remove unwanted material from the beginning and ending of the recording. Cut sounds into separate files and name them appropriately. Apply fades to the start and end to avoid clicks. Raise the levels of the recordings so they are all similar.
+   In class assignment [instructions](pages/lectures/week-4/editing-project-instructions)
+  
+   If you need help using Ableton see the LinkedIn Learning Course [Ableton Live 10 Essential Training](https://www.linkedin.com/learning/ableton-live-10-essential-training/track-controls)
   
    **Thursday 9/16**
 
