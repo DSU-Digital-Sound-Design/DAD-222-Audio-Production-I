@@ -144,10 +144,11 @@ th {
    </td>
    <td>
    
-   Editing, Mixing
+   ## Editing, Mixing
 
    **Tuesday 9/14**
 
+   * Studio Training Tuesday 9/14, 9/21, 9/28 at 7pm 
    * Editing concepts - non-destructive editing
       * Loop - command / control + L 
       * cut, copy, paste, trim
