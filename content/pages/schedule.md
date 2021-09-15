@@ -169,12 +169,16 @@ th {
 
    * Mixing concepts – volume, pan, automation, dynamics, eq 
 
+   Mixing Lab: Create a mix from one of the example projects [here](https://www.cambridge-mt.com/ms/mtk-newbies/) in the entry level projects section. Use volume, pan, automation, dynamics processing and equalization. 
 
-   Project 2: Create a sound scene 
+   * Start with setting the volumes of each track. Set all of the volumes to -60, then bring in each track one by one, in order of importance. Then, pan elements that are important to the center, and elements that are less important away from the center to create more width. 
+   * Add automation to at least one track. This can be done easily to volume to create interest in the mix.
+   * Add dynamics processing using a compressor to at least two tracks. Try the vocal track. 
+   * Add equalization to at least two tracks. 
 
-   Take the edited recordings and create a short (00:30 – 1:00) etude using the mixing concepts we have learned. An etude is not meant to be a piece of music, so don’t worry about artistic merit. 
+   Submit your final mix as well as your project file. 
 
-   <strong>Other possible assignments: </strong>volume and pan, compressor, equalization, time-based effects
+   Due Tuesday 9/21
 
    </td>
   </tr>
@@ -184,6 +188,10 @@ th {
    <td>9/21, 9/23
    </td>
    <td>Mixing concepts continued – effects and automation 
+
+     Project 2: Create a sound scene 
+
+   Take the edited recordings and create a short (00:30 – 1:00) etude using the mixing concepts we have learned. An etude is not meant to be a piece of music, so don’t worry about artistic merit. 
    </td>
   </tr>
   <tr>
