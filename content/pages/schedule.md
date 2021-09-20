@@ -187,11 +187,26 @@ th {
    </td>
    <td>9/21, 9/23
    </td>
-   <td>Mixing concepts continued – effects and automation 
+   <td>
+   
+   ## Mixing concepts continued – effects 
 
-     Project 2: Create a sound scene 
+   **Tuesday 9/21**
 
-   Take the edited recordings and create a short (00:30 – 1:00) etude using the mixing concepts we have learned. An etude is not meant to be a piece of music, so don’t worry about artistic merit. 
+   * Time-based effects
+      * Delay, 
+      * flanger, 
+      * chorus, 
+      * reverb  
+         * digital
+         * convolution 
+
+   Mixing lab part 2: continue working on your mix from last week adding time based effects and automation. 
+
+   **Thursday 9/23**
+
+   * Work on Project 2 Due 9/28 - See the instructions [here](pages/projects) 
+
    </td>
   </tr>
   <tr>
