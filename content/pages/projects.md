@@ -32,8 +32,9 @@ A successful project will include:
 * 5 pts - two examples of time-based effects, which can include delay, flanger, chorus, or reverb 
 * 5 pts - an appropriate master level, between -6 dB and -3 dB, not clipping
 * 5 pts - Form - Your composition should have an intro, middle section and an outro. 
+* 5 pts - Write a paragraph about your composition and how it was created. Explain which sounds you used and why, and how you created the structure. In a few sentences, answer this question: Do you believe that creating music this way is a legitimate form of musical creativity? If so, why? If not, why not?
 
-Total - 35 pts 
+Total - 40 pts 
 
 ## Project 3 
 
