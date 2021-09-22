@@ -22,7 +22,7 @@ Along with your recordings, be sure to turn in a list of what microphones you us
 
 ## Project 2
 
-Create a 3 - 4 minute composition out of your sample pack recordings. If you recorded musical sounds your composition might sound more traditionally music. If you recorded sound effects it will sound more like a sound scene or a piece of electroacoustic music. Either is good. Make use of the mixing concepts we've learned in class. 
+Create a 3 - 4 minute composition using your sample pack recordings. If you recorded musical sounds your composition might sound more traditionally music. If you recorded sound effects it will sound more like a soundscape or a piece of electroacoustic music. Either is good. Make use of the mixing concepts we've learned in class. 
 
 A successful project will include: 
 * 5 pts - tracks that are balanced with each other using volume and panning controls 
@@ -31,8 +31,9 @@ A successful project will include:
 * 5 pts - equalization on at least one track
 * 5 pts - two examples of time-based effects, which can include delay, flanger, chorus, or reverb 
 * 5 pts - an appropriate master level, between -6 dB and -3 dB, not clipping
+* 5 pts - Form - Your composition should have an intro, middle section and an outro. 
 
-Total - 30 pts 
+Total - 35 pts 
 
 ## Project 3 
 
