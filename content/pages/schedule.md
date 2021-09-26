@@ -214,7 +214,15 @@ th {
    </td>
    <td>9/28, 9/30
    </td>
-   <td>MIDI – History, messages, sequencing, editing, recording 
+   <td>
+   
+   ## MIDI – History, messages, sequencing, editing, recording 
+
+   * Review mixing projects
+      * Please send me your project file if you haven't already. 
+      * I'll show how to do it in Ableton, Logic, and Reaper. 
+   * Listen to project 2 compositions 
+   
    </td>
   </tr>
   <tr>
