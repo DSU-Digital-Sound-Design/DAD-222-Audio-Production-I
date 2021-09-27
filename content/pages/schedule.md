@@ -218,11 +218,22 @@ th {
    
    ## MIDI – History, messages, sequencing, editing, recording 
 
+   **Tuesday 9/28**
+
    * Review mixing projects
       * Please send me your project file if you haven't already. 
       * I'll show how to do it in Ableton, Logic, and Reaper. 
    * Listen to project 2 compositions 
    
+   **Thursday 9/30**
+   
+   * Introduction to MIDI
+      * History
+      * Messages
+      * sequencing 
+      * editing
+      * recording 
+
    </td>
   </tr>
   <tr>
