@@ -216,7 +216,6 @@ th {
    </td>
    <td>
    
-   ## MIDI – History, messages, sequencing, editing, recording 
 
    **Tuesday 9/28**
 
@@ -227,12 +226,7 @@ th {
    
    **Thursday 9/30**
    
-   * Introduction to MIDI
-      * History
-      * Messages
-      * sequencing 
-      * editing
-      * recording 
+   No class
 
    </td>
   </tr>
@@ -241,13 +235,23 @@ th {
    </td>
    <td>10/5, 10/7
    </td>
-   <td>Intro to sampling 
-<p>
-Project 3: Drum Programming 
-<p>
-Create a 3 – 4-minute-long piece of beat music. Use Groove Pizza to create looped beats then import them into Ableton Live. Only use samples from project 1. You can edit these samples in any way to make appropriate sounds for percussion instruments. You may use any of the editing or mixing concepts we have learned so far. Use at least one effect and automate at least one parameter on that effect. 
-<p>
-As harmonic and melodic elements import a MIDI recording of a Bach piece. Download a bunch here: http://www.bachcentral.com/midiindex.html
+   <td>
+   
+   ## MIDI – History, messages, sequencing, editing, recording 
+
+   **Tuesday 10/5**
+
+   * [Introduction to MIDI](pages/lectures/week-7/)
+      * History
+     
+   **Thursday 10/7**
+
+   * MIDI
+      * Messages
+      * sequencing 
+      * editing
+      * recording 
+ 
    </td>
   </tr>
   <tr>
@@ -255,9 +259,16 @@ As harmonic and melodic elements import a MIDI recording of a Bach piece. Downlo
    </td>
    <td>10/12, 10/14
    </td>
-   <td>Intro to synthesis 
-<p>
-Project 4: Ambient synth track 
+   <td>
+   
+   *  Intro to sampling 
+
+   Project 3: Drum Programming 
+
+   Create a 3 – 4-minute-long piece of beat music. Use Groove Pizza to create looped beats then import them into Ableton Live. Only use samples from project 1. You can edit these samples in any way to make appropriate sounds for percussion instruments. You may use any of the editing or mixing concepts we have learned so far. Use at least one effect and automate at least one parameter on that effect. 
+
+   As harmonic and melodic elements import a MIDI recording of a Bach piece. Download a bunch here: http://www.bachcentral.com/midiindex.html
+
    </td>
   </tr>
   <tr>
@@ -265,7 +276,12 @@ Project 4: Ambient synth track
    </td>
    <td>10/19, 10/21
    </td>
-   <td>Field recording – microphones, locations, etc. How do locations effect the sound recorded?
+   <td>
+   
+   Intro to synthesis 
+
+   Project 4: Ambient synth track 
+   
    </td>
   </tr>
   <tr>
@@ -273,7 +289,13 @@ Project 4: Ambient synth track
    </td>
    <td>10/26, 10/28
    </td>
-   <td>Field recording – different theories, recording ambiences or specific sounds for sound effects 
+   <td>
+   
+   ## Field recording 
+   
+   * different theories, recording ambiences or specific sounds for sound effects 
+   * microphones, locations, etc. How do locations effect the sound recorded?
+  
    </td>
   </tr>
   <tr>
