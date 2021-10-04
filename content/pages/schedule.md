@@ -241,8 +241,7 @@ th {
 
    **Tuesday 10/5**
 
-   * [Introduction to MIDI](pages/lectures/week-7/)
-      * History
+   * [Introduction to MIDI](pages/lectures/week-7/midi-history) - [PDF](pages/lectures/week-7/midi-history/midi.pdf)
      
    **Thursday 10/7**
 
