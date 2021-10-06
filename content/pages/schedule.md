@@ -241,15 +241,12 @@ th {
 
    **Tuesday 10/5**
 
-   * [Introduction to MIDI](pages/lectures/week-7/midi-history) - [PDF](pages/lectures/week-7/midi-history/midi.pdf)
+   Class canceled 
      
    **Thursday 10/7**
 
-   * MIDI
-      * Messages
-      * sequencing 
-      * editing
-      * recording 
+   * [Introduction to MIDI](pages/lectures/week-7/midi-history) - [PDF](pages/lectures/week-7/midi-history/midi.pdf)
+
  
    </td>
   </tr>
@@ -260,6 +257,11 @@ th {
    </td>
    <td>
    
+   * MIDI
+      * Messages
+      * sequencing 
+      * editing
+      * recording 
    *  Intro to sampling 
 
    Project 3: Drum Programming 
