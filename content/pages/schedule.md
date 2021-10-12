@@ -237,7 +237,7 @@ th {
    </td>
    <td>
    
-   ## MIDI – History, messages, sequencing, editing, recording 
+   ## MIDI – History
 
    **Tuesday 10/5**
 
@@ -257,18 +257,24 @@ th {
    </td>
    <td>
    
-   * MIDI
-      * Messages
-      * sequencing 
-      * editing
-      * recording 
+   ## MIDI editing
+
+   **Tuesday 10/12**
+
+   * [MIDI editing and quantization](pages/lectures/week-8/midi-editing.md)
+
+   **Thursday 10/14**
+
    *  Intro to sampling 
 
-   Project 3: Drum Programming 
+   Project 3 Due Tuesday 10/19: Drum Programming and Sampling 
 
-   Create a 3 – 4-minute-long piece of beat music. Use Groove Pizza to create looped beats then import them into Ableton Live. Only use samples from project 1. You can edit these samples in any way to make appropriate sounds for percussion instruments. You may use any of the editing or mixing concepts we have learned so far. Use at least one effect and automate at least one parameter on that effect. 
+   Create a 3 - 4 minute composition that uses MIDI to play a drum kit and sampling techniques to create a melody from the recordings you made in class. Use a drum rack for the drum kit and a simpler or sampler for the melody. Your drum track must not be a repeating loop and must entirely be programmed by yourself. 
 
-   As harmonic and melodic elements import a MIDI recording of a Bach piece. Download a bunch here: http://www.bachcentral.com/midiindex.html
+
+   <!-- Create a 3 – 4-minute-long piece of beat music. Use Groove Pizza to create looped beats then import them into Ableton Live. Only use samples from project 1. You can edit these samples in any way to make appropriate sounds for percussion instruments. You may use any of the editing or mixing concepts we have learned so far. Use at least one effect and automate at least one parameter on that effect. 
+
+   As harmonic and melodic elements import a MIDI recording of a Bach piece. Download a bunch here: http://www.bachcentral.com/midiindex.html -->
 
    </td>
   </tr>
