@@ -266,7 +266,6 @@ th {
    **Thursday 10/14**
 
    *  Intro to sampling 
-      * Sampler 
       * Simpler  
 
    Project 3 Due Tuesday 10/19: Drum Programming and Sampling 
