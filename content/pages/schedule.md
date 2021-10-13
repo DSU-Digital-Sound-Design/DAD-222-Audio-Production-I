@@ -266,10 +266,19 @@ th {
    **Thursday 10/14**
 
    *  Intro to sampling 
+      * Sampler 
+      * Simpler  
 
    Project 3 Due Tuesday 10/19: Drum Programming and Sampling 
 
-   Create a 3 - 4 minute composition that uses MIDI to play a drum kit and sampling techniques to create a melody from the recordings you made in class. Use a drum rack for the drum kit and a simpler or sampler for the melody. Your drum track must not be a repeating loop and must entirely be programmed by yourself. 
+   Create a 3 - 4 minute composition that uses MIDI to play a drum kit and sampling techniques to create a melody from the recordings you made in class. Use a drum rack for the drum kit and a simpler or sampler for the melody. Your drum track must not be a repeating loop and must entirely be programmed by yourself. Use the simpler in 3 different modes: classic, one-shot and slice. One-shot mode will be used with the drums. Classic can be used to play parts of longer samples and slice can play short rhythmic bits of longer samples. 
+
+   Requirements:
+   * 10 pts - drum rack - can use a preset kit, this will use many simpler instruments in one-shot mode 
+   * 10 pts - One simpler instrument in classic mode
+   * 10 pts - one simpler instrument in slice mode  
+   * 10 pts - Composition only uses MIDI to triggers samples; no audio loops are used 
+
 
 
    <!-- Create a 3 – 4-minute-long piece of beat music. Use Groove Pizza to create looped beats then import them into Ableton Live. Only use samples from project 1. You can edit these samples in any way to make appropriate sounds for percussion instruments. You may use any of the editing or mixing concepts we have learned so far. Use at least one effect and automate at least one parameter on that effect. 
