@@ -292,8 +292,16 @@ th {
    <td>10/19, 10/21
    </td>
    <td>
-   
-   Intro to synthesis 
+
+   ## Intro to synthesis 
+
+   **Tuesday 10/19**
+
+   * Listen to drum programming and sampling projects 
+
+   **Thursday 10/21**
+
+   * Electronic sound production 
 
    Project 4: Ambient synth track 
    
@@ -306,10 +314,16 @@ th {
    </td>
    <td>
    
-   ## Field recording 
+   ## More synthesis 
+
+   **Tuesday 10/26**
+
+   * Synthesis methods
+
+   <!-- ## Field recording 
    
    * different theories, recording ambiences or specific sounds for sound effects 
-   * microphones, locations, etc. How do locations effect the sound recorded?
+   * microphones, locations, etc. How do locations effect the sound recorded? -->
   
    </td>
   </tr>
