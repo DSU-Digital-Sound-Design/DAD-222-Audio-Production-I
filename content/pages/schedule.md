@@ -301,7 +301,9 @@ th {
 
    **Thursday 10/21**
 
-   * Electronic sound production 
+   * Actually listen to drum programming projects 
+  
+   <!-- * Electronic sound production  -->
 
    Project 4: Ambient synth track 
    
