@@ -257,7 +257,7 @@ th {
    </td>
    <td>
    
-   ## MIDI editing
+   ## MIDI editing and Sampling 
 
    **Tuesday 10/12**
 
@@ -293,8 +293,6 @@ th {
    </td>
    <td>
 
-   ## Intro to synthesis 
-
    **Tuesday 10/19**
 
    * Listen to drum programming and sampling projects 
@@ -305,7 +303,7 @@ th {
   
    <!-- * Electronic sound production  -->
 
-   Project 4: Ambient synth track 
+   
    
    </td>
   </tr>
@@ -316,16 +314,23 @@ th {
    </td>
    <td>
    
-   ## More synthesis 
+   ## Introduction to Synthesis 
 
    **Tuesday 10/26**
 
-   * Synthesis methods
+   * [Electronic sound production](pages/lectures/week-10/electronic-sound-production) - [PDF](pages/lectures/week-10/electronic-sound-production/electronic-sound-production.pdf)
+   * [Learning Synths - Ableton](https://learningsynths.ableton.com/)
+   * or other early music using basic synthesis 
 
-   <!-- ## Field recording 
-   
-   * different theories, recording ambiences or specific sounds for sound effects 
-   * microphones, locations, etc. How do locations effect the sound recorded? -->
+   **Thursday 10/28**
+
+   * Synthesis methods
+      * Additive, subtractive   
+
+
+   Project 4: Ambient synth track in the style of Brian Eno 3 - 5 minutes 
+
+   The work will have a bass, lead, and pad patch that you programmed yourself. 
   
    </td>
   </tr>
@@ -334,7 +339,16 @@ th {
    </td>
    <td>11/2, 11/4
    </td>
-   <td>Field recording
+   <td>
+   
+   <!-- Field recording -->
+
+   ## More Synthesis
+
+   * FM, AM, physical modeling, granular synthesis, and more
+   * Introduce final project and proposal 
+
+
    </td>
   </tr>
   <tr>
@@ -342,7 +356,10 @@ th {
    </td>
    <td>11/9
    </td>
-   <td>More lessons from the sound effects bible
+   <td>
+   <!-- Compositional techniques, how to organize a work?  -->
+
+   <!-- Field recording if we have the sd cards?  -->
 <p>
 Final project proposal due 11/9
 <p>
