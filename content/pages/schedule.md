@@ -321,8 +321,8 @@ th {
    * [Electronic sound production](pages/lectures/week-10/electronic-sound-production) - [PDF](pages/lectures/week-10/electronic-sound-production/electronic-sound-production.pdf)
    * [Learning Synths - Ableton](https://learningsynths.ableton.com/)
    * <iframe width="560" height="315" src="https://www.youtube.com/embed/71hNl_skTZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      * [Graphic listening score key](https://amusictechstudy.wordpress.com/2017/10/11/artikulation-ligeti/) 
-      * [More info](https://en.wikipedia.org/wiki/Artikulation_(Ligeti))
+   * [Graphic listening score key](https://amusictechstudy.wordpress.com/2017/10/11/artikulation-ligeti/) 
+   * [More info](https://en.wikipedia.org/wiki/Artikulation_(Ligeti))
 
    **Thursday 10/28**
 
