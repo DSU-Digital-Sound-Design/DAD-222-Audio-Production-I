@@ -327,11 +327,16 @@ th {
    **Thursday 10/28**
 
    * Synthesis methods
-      * Additive, subtractive   
-   * Read Steve Reich’s Music as a Gradual Process and Brian Eno’s Ambient Music    
-   * Listen to Donato Wharton’s Puget Sound and whatever you’d like of Aphex Twin’s Selected Ambient Works 85-92
+      * Wavetable, Additive, subtractive  
+   * Ableton devices
+      * Wavetable 
+      * Analog - virtual analog synthesizer 
+   * Work on patches 
+      * [Bass patch](pages/lectures/week-10/bass-patch-instructions)  
+      * [Lead patch](pages/lectures/week-10/lead-patch-instructions)
 
 
+     
    Project 4: Ambient synth track in the style of Brian Eno 3 - 5 minutes 
 
    The work will have a bass, lead, and pad patch that you programmed yourself. 
@@ -350,6 +355,8 @@ th {
    ## More Synthesis
 
    * FM, AM, physical modeling, granular synthesis, and more
+      * Ableton Operator - FM Synth  
+      * Work on pad patch 
    * Introduce final project and proposal 
 
 
