@@ -38,3 +38,18 @@ Total - 40 pts
 
 ## Project 3 
 
+## Project 4 
+
+Ambient synth track in the style of Brian Eno 3 - 5 minutes. The work will have a bass, lead, and pad patch that you programmed yourself. Use the instructions from the past few lessons as starting places for your patches. Rename your patches to be descriptive of the sounds you are making and save your new presets. 
+
+   Properties of ambient music: 
+   1. Emphasis on atmosphere and texture 
+   2. Gradual exploration of timbre 
+   3. Simple harmonic progression 
+   4. De-emphasis on melodies 
+
+   Requirements:
+   * 10 pts - Pad patch
+   * 10 pts - Bass patch
+   * 10 pts - Lead patch
+   * 10 pts - Physical modeling synth

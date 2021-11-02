@@ -334,12 +334,6 @@ th {
    * Work on patches 
       * [Bass patch](pages/lectures/week-10/bass-patch-instructions)  
       * [Lead patch](pages/lectures/week-10/lead-patch-instructions)
-
-
-     
-   Project 4: Ambient synth track in the style of Brian Eno 3 - 5 minutes 
-
-   The work will have a bass, lead, and pad patch that you programmed yourself. 
   
    </td>
   </tr>
@@ -354,12 +348,24 @@ th {
 
    ## More Synthesis
 
-   * FM, AM, physical modeling, granular synthesis, and more
+   **Tuesday 11/2**
+
+   * Frequency Modulation Synthesis
       * Ableton Operator - FM Synth  
-      * Work on pad patch 
-   * Introduce final project and proposal 
+      * Listening examples
+         * [Brian Eno - Music for Airports](https://www.youtube.com/watch?v=73PF7tpHFBY) 
+         * [Aphex Twin - tree from Selected Ambient works part II](https://youtu.be/UKyD6n2DHPU)  
+         * [Oneohtrix Point Never - Still Life](https://youtu.be/TRsBNYvA-28)
+      * Work on [pad patch](pages/lectures/week-11/pad-patch-instructions) 
 
+   **Thursday 11/4**
 
+   * Physical Modeling synths
+         * Simulating the physical properties of instruments  
+         * Collision, Electric, Tension 
+
+   [Project 4](pages/projects.md): Ambient synth track in the style of Brian Eno 3 - 5 minutes. 
+   
    </td>
   </tr>
   <tr>
@@ -368,9 +374,12 @@ th {
    <td>11/9
    </td>
    <td>
+
+   * Granular Synthesis 
    <!-- Compositional techniques, how to organize a work?  -->
 
    <!-- Field recording if we have the sd cards?  -->
+    * Introduce final project and proposal 
 <p>
 Final project proposal due 11/9
 <p>
