@@ -361,8 +361,8 @@ th {
    **Thursday 11/4**
 
    * Physical Modeling synths
-         * Simulating the physical properties of instruments  
-         * Collision, Electric, Tension 
+      * Simulating the physical properties of instruments  
+      * Collision, Electric, Tension 
 
    [Project 4](pages/projects.md): Ambient synth track in the style of Brian Eno 3 - 5 minutes. 
    
