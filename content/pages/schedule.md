@@ -375,15 +375,19 @@ th {
    </td>
    <td>
 
-   * Granular Synthesis 
+   **Tuesday 11/8**
+
+   * Listen to Ambient Synth projects 
+   <!-- * Granular Synthesis  -->
    <!-- Compositional techniques, how to organize a work?  -->
 
    <!-- Field recording if we have the sd cards?  -->
-    * Introduce final project and proposal 
-<p>
-Final project proposal due 11/9
-<p>
-No class on 11/11 because of Veterans Day
+    <!-- * Introduce final project and proposal  -->
+   <!-- <p>
+   Final project proposal due 11/9
+   <p>
+   No class on 11/11 because of Veterans Day -->
+   
    </td>
   </tr>
   <tr>
