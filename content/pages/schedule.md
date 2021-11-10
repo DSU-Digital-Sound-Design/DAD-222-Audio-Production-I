@@ -383,7 +383,6 @@ th {
    <!-- Compositional techniques, how to organize a work?  -->
 
    <!-- Field recording if we have the sd cards?  -->
-    <!-- * Introduce final project and proposal  -->
    <!-- <p>
    Final project proposal due 11/9
    <p>
@@ -396,7 +395,21 @@ th {
    </td>
    <td>11/16, 11/18
    </td>
-   <td>Beyond the DAW – creating sounds with programming – MaxMSP, SuperCollider, Chuck etc. 
+   <td>
+   
+   ## Final Project
+
+   **Tuesday 11/16**
+
+   * [Introduction](pages/projects.md) and Brainstorming
+   * Project proposal due by Thursday 11/18 
+
+   **Thursday 11/18**
+
+   * Studio review 
+   * Discussions of project proposals    
+
+   <!-- Beyond the DAW – creating sounds with programming – MaxMSP, SuperCollider, Chuck etc.  -->
    </td>
   </tr>
   <tr>
@@ -404,7 +417,11 @@ th {
    </td>
    <td>11/23
    </td>
-   <td>No class on 11/25 because of Thanksgiving Holiday
+   <td>
+   
+   * Individual project check-ins 
+   
+   No class on 11/25 because of Thanksgiving Holiday
    </td>
   </tr>
   <tr>
@@ -413,6 +430,9 @@ th {
    <td>11/30, 12/2
    </td>
    <td>
+
+   Independent project work 
+
    </td>
   </tr>
   <tr>
