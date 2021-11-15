@@ -403,6 +403,7 @@ th {
 
    * [Introduction](pages/projects#final-project) and Brainstorming
    * Project proposal due by Thursday 11/18 
+   * Show granular synthesis patches, another possibility for synthesis/sampling
 
    **Thursday 11/18**
 
