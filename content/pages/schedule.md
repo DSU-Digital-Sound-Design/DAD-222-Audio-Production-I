@@ -401,7 +401,7 @@ th {
 
    **Tuesday 11/16**
 
-   * [Introduction](pages/projects#final) and Brainstorming
+   * [Introduction](pages/projects#final-project) and Brainstorming
    * Project proposal due by Thursday 11/18 
 
    **Thursday 11/18**

@@ -55,7 +55,8 @@ Ambient synth track in the style of Brian Eno 3 - 5 minutes. The work will have 
    * 10 pts - Physical modeling synth
 
 
-<h2 id="final">Final project</h2>
+
+## Final project
 
 Goals: 
 
