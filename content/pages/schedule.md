@@ -407,8 +407,8 @@ th {
 
    **Thursday 11/18**
 
-   * Studio review 
    * Discussions of project proposals    
+   * Studio review 
 
    <!-- Beyond the DAW – creating sounds with programming – MaxMSP, SuperCollider, Chuck etc.  -->
    </td>
