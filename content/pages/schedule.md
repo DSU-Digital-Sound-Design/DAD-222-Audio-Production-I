@@ -420,7 +420,10 @@ th {
    </td>
    <td>
    
+   **Tuesday 11/23**
+
    * Individual project check-ins 
+   
    
    No class on 11/25 because of Thanksgiving Holiday
    </td>
