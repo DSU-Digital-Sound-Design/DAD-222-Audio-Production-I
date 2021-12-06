@@ -444,7 +444,13 @@ th {
    </td>
    <td>12/7
    </td>
-   <td>Final Project Due 
+   <td>
+
+   **Tuesday 12/7**
+
+   * Last chance to get help with the project - Due 12/14 by 10:30 am. 
+   * Submit course evaluations [here](https://sdbor.campuslabs.com/eval-home/direct/777843)
+
    </td>
   </tr>
 </table>
